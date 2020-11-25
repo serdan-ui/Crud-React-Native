@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "sergio",
+      "telefono": "381475198",
+      "correo": "sser@dada.com",
+      "empresa": "ppppp",
+      "id": 1
+    },
+    {
+      "nombre": "sergio rosales NEvoooas",
+      "telefono": "381475198",
+      "correo": "sser@dada.com",
+      "empresa": "pepito",
+      "id": 2
+    },
+    {
+      "nombre": "wasdad",
+      "telefono": "15478219",
+      "correo": "soea@adad.com",
+      "empresa": "pepepepepep",
+      "id": 3
+    }
+  ]
+}
